@@ -3,7 +3,7 @@ Introduction to the Android at the Library Course Materials
 
 This repository will contain the general course outline, course planning, and any curriculum-topic discussions.
 
-**This repository is still under development -- please feel free to pull requests!**
+**This repository is still under development -- please feel free to issue pull requests!**
 
 ----
 
